@@ -1,0 +1,29 @@
+
+ <!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  
+  <title></title>
+  </head>
+
+</head>
+<body>
+<div class="container">
+    <div class="col-xs-2">
+      <nav id="nav">
+        <a class="list-group-item" href="index.html">About me</a>
+        <a class="list-group-item" href="about me.html">Project</a>
+        <a class="list-group-item" href="projects.html">Technologies</a>
+      </nav>
+      
+
+        
+      </div>
+  </div>
+  
+</div>
+
+</body>
+</html>

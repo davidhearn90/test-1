@@ -1,0 +1,191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Student/Desktop/project 1/index.html",
+		"/C/Users/Student/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Sublime Text 3.lnk",
+		"/C/Users/Student/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Mozilla Firefox.lnk",
+		"/C/Users/Student/Desktop/Sublime Text 3.lnk",
+		"/C/Users/Public/Desktop/Google Earth.lnk",
+		"/C/Users/Student/Desktop/david hearn - Chrome.lnk",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Google Chrome/Google Chrome.lnk",
+		"/C/Users/Student/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Google Chrome.lnk",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Atlassian/SourceTree/SourceTree.lnk",
+		"/C/Users/Public/Desktop/NetBeans IDE 8.0.lnk",
+		"/C/Users/Student/Desktop/project 1/main.js",
+		"/C/Users/Student/Desktop/project 1/main.css",
+		"/C/Users/Student/Desktop/project 1/css/main.css",
+		"/C/Users/Student/Desktop/project 1/css/custom.css",
+		"/C/Users/Student/Desktop/project 1/images",
+		"/C/Users/Student/Desktop/project 1/css/bootstrap.min.css",
+		"/C/Users/Student/Desktop/portfolio 1.0/project 1/css/main.css",
+		"/C/Users/Student/Desktop/portfolio 1.0/project 1/css/bootstrap.min.css",
+		"/C/Users/Student/Desktop/portfolio 1.0/project 1/index.html",
+		"/C/Users/Student/Desktop/portfolio 1.0/project 1/css/custom.css",
+		"/C/Users/Student/Desktop/portfolio 1.0/css/main.css",
+		"/C/Users/Student/Desktop/portfolio 1.0/index.html",
+		"/C/Users/Student/Desktop/portfolio 1.0/index"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"green"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Student\\Desktop\\project 1\\project 1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
