@@ -1,8 +1,8 @@
 <!Doctype <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/main.css">
+ <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
 	<title></title>
 </head>
 <body>
@@ -20,7 +20,43 @@
     </div>
   </div>
 </div>
+
+
+  <div id="mycarousel" class="carousel slide" data-ride="carousel" interval>
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#mycarousel" data-slide-to="1"></li>
+    <li data-target="#mycarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="images/la.png" alt="..." width"700px">
+  
+    </div>
+    <div class="item">
+      <img src="images/ufc1.jpg" alt="..." width"700px">
+      
+    </div>
+
+    <div class="item">
+      <img src="images/kakashi.jpg" alt="..." width"700px">
+      
+    </div>
+    ...
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#mycarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#mycarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script type="text/javascript" src"js/bootstrap.min.js"></script>
+<script type="text/javascript" src="java/bootstrap.min.js"></script>
 </body>
 </html>
